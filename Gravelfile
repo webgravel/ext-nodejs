@@ -1,0 +1,4 @@
+name: nodejs
+requires-apt: libev-dev libc-ares2 libssl-dev
+
+preinstall: ./build.sh
