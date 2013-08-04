@@ -1,2 +1,3 @@
 *.tar.gz
 node-0.11.4
+*.gravelpkg
